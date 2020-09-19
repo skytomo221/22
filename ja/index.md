@@ -2,7 +2,7 @@
 description: 22世紀のための国際補助語
 ---
 
-[English](wentiay-bangao/en/) - [日本語](wentiay-bangao/ja/)
+[English](../en/) - [日本語](../ja/)
 
 # wentiay-bangao
 

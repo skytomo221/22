@@ -2,7 +2,7 @@
 description: International auxiliary language for the 22nd century
 ---
 
-[English](wentiay-bangao/en/) - [日本語](wentiay-bangao/ja/)
+[English](../en/) - [日本語](../ja/)
 
 # Wentiay-bangao
 
