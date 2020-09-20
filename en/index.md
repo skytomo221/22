@@ -106,14 +106,14 @@ The letters and pronunciation are:
 
 In Wentiay-bangao, you can easily understand the part of speech by grammatical endings like Esperanto.
 
-| Suffix |     Meaning     |
-| :----: | :-------------: |
-|   a    |   Adjectives    |
-|   e    |     Adverbs     |
-|   i    |      Verbs      |
-|   o    |      Nouns      |
-|   u    |  Prepositions   |
-|   -    | Synthetic words |
+| Suffix |    Meaning     |
+| :----: | :------------: |
+|   a    |   Adjectives   |
+|   e    |    Adverbs     |
+|   i    |     Verbs      |
+|   o    |     Nouns      |
+|   u    |  Prepositions  |
+|   -    | Compound words |
 
 `-` is used to create a compound word by connecting to next word.
 
