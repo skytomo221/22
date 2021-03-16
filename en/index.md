@@ -11,9 +11,7 @@ intended for communication between people of different mother tongues.
 Our goal is to create a language that is both fair and easy to learn. As an international auxiliary language,
 we aim to make it more globally recognized and popular.
 
-## What is Wentiay-bangao?
-
-Wentiay-bangao is a language such as:
+## Goals
 
 - Neutral language
 - Fair language
@@ -24,7 +22,7 @@ Wentiay-bangao is a language such as:
 - Auxiliary language for communication an international auxiliary language for the 22nd century
 - A language for enjoying conversations at tea parties and BBQs
 
-On the other hand, Wentiay-bangao is **NOT** a language such as:
+## Non-goals
 
 - Minimum language
 - Secure language
@@ -103,6 +101,8 @@ The letters and pronunciation are:
 |    -     |                  [ə]                   |
 
 ## Language with simple grammar
+
+Grammar and vocabulary are subject to change in the future.
 
 In Wentiay-bangao, you can easily understand the part of speech by grammatical endings like Esperanto.
 
