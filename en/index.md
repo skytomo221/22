@@ -33,110 +33,58 @@ we aim to make it more globally recognized and popular.
 - A language that can perfectly translate all languages
 - Language for communicating with space aliens
 
-## Neutral language
+## The best! My favorite flawed language of all time!
 
-Wentiay-bangao aims for a neutral language.
-There is no difference in grammar due to gender differences.
+To hell with international auxiliary languages! I have good news for you!
+We are not serious about spreading this language all over the world.
+In fact, we can't do it anyway.
 
-## Fair language
+If a true international auxiliary language means
+spreading the language throughout the world,
+then surely we cannot create such a thing.
 
-Wentiay-bangao is made from a mixture of languages to aim for a fair language.
-Specifically, the roots are created based on the following 20 major languages in the world.
+Of course, there is no way to unify all languages into one.
+Humanity can't even have one programming language.
 
-1. Chinese
-2. English
-3. Spanish
-4. Hindi
-5. Bengali
-6. Portuguese
-7. Russian
-8. French
-9. Arabic
-10. Japanese
-11. Indonesian
-12. Urdu
-13. German
-14. Telugu
-15. Turkish
-16. Korean
-17. Vietnamese
-18. Javanese
-19. Swahili
-20. Thai
+We're going to fail anyway.
 
-## Alphabet
+For eternity.
 
-Wentiay-bangao, like Esperanto and Lojban, has the same sound and spelling.
-The Wentiay-bangao alphabet has the following 27 letters except Q.
+Has there ever been a time in human history when an artificial international auxiliary language has become a universal language?
+Only a handful of people know Esperanto, which is probably the most famous of all artificial languages.
+Even Esperanto, the most famous of the artificial languages, is known by only a handful of people.
+And you can probably count on one hand the number of languages other than Esperanto that have become lingua franca you remember.
+(This may be a bit false, since you've gone to the trouble of reading this site.)
+In other words, most people are not interested in international auxiliary languages.
 
-The letters and pronunciation are:
+We all know that the best way to communicate with people around the world is to use a language that is widely spoken, such as English.
+The best way for us to communicate with people around the world is to either use a widely spoken language such as English,
+or The best way for us to communicate with people around the world is to use a language that is widely spoken,
+such as English,
+or one of us can use the other's native language.
 
-| Alphabet |                  IPA                   |
-| :------: | :------------------------------------: |
-|    a     |                [a], [ɑ]                |
-|    b     |                  [b]                   |
-|    c     |                [ʃ], [ʂ]                |
-|    d     |                  [d]                   |
-|    e     |                [ɛ], [e]                |
-|    f     |                [f], [ɸ]                |
-|    g     |                  [ɡ]                   |
-|    h     |                  [h]                   |
-|    i     |                  [i]                   |
-|    j     |                  [ʒ]                   |
-|    k     |                  [k]                   |
-|    l     |                [l], [l̩]                |
-|    m     |                [m], [m̩]                |
-|    n     |           [n], [n̩], [ŋ], [ŋ̩]           |
-|    o     |                [o], [ɔ]                |
-|    p     |                  [p]                   |
-|    r     | [r], [ɹ], [ɾ], [ʀ], [r̩], [ɹ̩], [ɾ̩], [ʀ̩] |
-|    s     |                  [s]                   |
-|    t     |                  [t]                   |
-|    u     |                  [u]                   |
-|    v     |                [v], [β]                |
-|    w     |                  [w]                   |
-|    x     |                  [x]                   |
-|    y     |                  [j]                   |
-|    z     |                  [z]                   |
-|    -     |                  [ə]                   |
+To begin with, have you ever thought about the 22nd century?
+Technology will be more advanced than it is now. You can be sure that translators will be better than ever.
+We won't even have to learn English, which currently looks (and practically is) like a universal language.
+Do you think the humanity will need this language in such an age?
 
-## Language with simple grammar
+In the first place, language is the most efficient communication protocol that mankind has "so far" been able to use to convey information.
+But in reality, it is essentially an ambiguous, complex, and unstable communication protocol.
+However, the reality is that it is inherently ambiguous, complex, and unstable. misunderstandings and misinterpretations. It's really ambiguous, complex, and unstable.
+In order to communicate perfectly,
+we should first consider non-verbal methods of communication.
 
-Grammar and vocabulary are subject to change in the future.
+...... We know I've told a sad story to some of you.
+We still make this language.
+It will be a failure as a true international auxiliary language.
+It will be a flawed language.
+But we will make an international auxiliary language.
+We're sure it's for the same reasons as other languages like those in the SCJ.
 
-In Wentiay-bangao, you can easily understand the part of speech by grammatical endings like Esperanto.
+We make them because we want to.
 
-| Suffix |    Meaning     |
-| :----: | :------------: |
-|   a    |   Adjectives   |
-|   e    |    Adverbs     |
-|   i    |     Verbs      |
-|   o    |     Nouns      |
-|   u    |  Prepositions  |
-|   -    | Compound words |
+If you are willing to keep the above in mind and collaborate with us on this language,
+you are most welcome.
+We're always waiting for you to join us!
 
-`-` is used to create a compound word by connecting to next word.
-
-## Roots
-
-In Wentiayu Bangao, there are basically roots made by mixing 20 languages.
-(If you are familiar with Lojban, think of it as a gismu.)
-For example, nipono (Japanese) and bangao (language).
-For words that are not in the root, combine the roots to make a compound word.
-For example, Japanese language is a combination of nipono and bangao and is represented by nipon-bangao.
-
-The roots are chosen to be fair to everyone.
-Currently, we are in the process of deciding what kind of word should be the root.
-We are looking for people who can help us choose the roots.
-
-## Recruitment of collaborators
-
-The Wentiay-bangao Project (WBP) is looking for volunteers.
-
-Wentiay-bangao aims for a fair and neutral language, but unwittingly may be biased.
-Also, because we are not a language expert, we may be making mistakes in your language.
-
-We are looking for people who can help us make a list of roots and/or who are familiar with Chinese, English, Spanish, Hindi, Bengali, Portuguese, Russian, French, Arabic, Japanese, Indonesian, Urdu, German, Telugu, Turkish, Korean, Vietnamese, Javanese, Swahili and Thai.
-
-If you are interested, please contact us at <a href="https://twitter.com/skytomo221">@skytomo221</a>.
-Your participation is always welcome.
+Contact: [@skytomo221](https://twitter.com/skytomo221)
