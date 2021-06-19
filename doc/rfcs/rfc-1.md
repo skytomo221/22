@@ -1,12 +1,12 @@
 # RFC 1
 
-|   項目   |            値            |
-| :------: | :----------------------: |
-|  Titile  |       WRFCについて       |
-|   Tag    |           None           |
-|  Class   |          Other           |
-| Related  |           None           |
-| DateTime | 2021-01-15 13:26 (UTC+9) |
+- Title: RFCについて
+- Tag: None
+- Class: Other
+- Related: None
+- DateTime: 2021-01-15
+
+---
 
 RFC（Request for Comment）は「コメント募集中文書」で、
 言語に関する細かな規定や話し合いなどの記録、または、問題提起などが書かれています。

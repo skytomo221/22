@@ -1,12 +1,12 @@
 # RFC 2
 
-|   項目   |            値            |
-| :------: | :----------------------: |
-|  Titile  | 地域における語彙について |
-|   Tag    |           語彙           |
-|  Class   |         Historic         |
-| Related  |           None           |
-| DateTime | 2021-01-15 13:52 (UTC+9) |
+- Title: 地域における語彙について
+- Tag: Vocabulary
+- Class: Historic
+- Related: None
+- DateTime: 2021-01-15
+
+---
 
 ※製作途中で放棄された文書です。
 
