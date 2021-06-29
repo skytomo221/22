@@ -3,7 +3,8 @@
 - Title: RFCについて
 - Tag: None
 - Class: Other
-- Related: None
+- Related:
+[RFC 3](./rfc-3.md)
 - DateTime: 2021-01-15
 
 ---
